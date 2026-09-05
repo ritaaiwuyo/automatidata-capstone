@@ -24,3 +24,9 @@ This is a practice capstone built around a fictional consulting scenario: workin
 
 ## Purpose
 This project was completed as a hands-on capstone activity to practice the full data analytics workflow — from cleaning and EDA to statistical testing and stakeholder communication.
+
+## Screenshots
+
+![Dashboard Screenshot 1](Screenshot%20(241)a.png)
+
+![Dashboard Screenshot 2](Screenshot%20(243)a.png)
