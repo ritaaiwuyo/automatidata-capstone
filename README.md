@@ -21,7 +21,7 @@ Do customers who pay by credit card pay higher fares than customers who pay cash
 Python (pandas, NumPy, SciPy, matplotlib, seaborn), Jupyter Notebook
 
 ## Files
-- `TLC coursera analysis (5).ipynb`: full analysis with charts and commentary
+- `nyc_taxi_analysis (1).ipynb`: full analysis with charts and commentary
 
 ## Run it yourself
 1. Get the course dataset and save it as `data/2017_Yellow_Taxi_Trip_Data.csv`. The data is not included in this repository.
